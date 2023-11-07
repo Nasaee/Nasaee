@@ -24,7 +24,7 @@ const nasaee = {
 
 ### Github status
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <a href="https://github.com/Nasaee/github-profile">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasaee&layout=compact&bg_color=30,e96443,904e95&title_color=1B2631&text_color=1B2631" alt="Top Languages">
   </a>
