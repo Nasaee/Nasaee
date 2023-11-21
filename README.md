@@ -11,7 +11,7 @@
 ### Skills
 
 ```javascript
-const nasaee = {
+const skills = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [
     React,
@@ -19,13 +19,8 @@ const nasaee = {
     Redux,
     Tailwind,
     Vite,
-    ExpressJS,
-    GraphQL,
-    NestJS,
-    PostgreSQL,
   ],
-  hobbies: ['coding', 'fishing', 'anime'],
-  learning: ['NestJS', 'React Native', 'NextJS'],
+  learning: ['NestJS', 'ExpressJS', 'GraphQL'],
 };
 ```
 
