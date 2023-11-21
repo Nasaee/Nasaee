@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Bangkok, Thailand
 - 🖥️  See my portfolio at [My portfolio](https://nasaee-portfolio.netlify.app)
-- ✉️  You can contact me at [nasaee.dev@gmail.com](mailto:nasaee.dev@gmail.com)
+- ✉️  You can contact me at [nasaee.dev@gmail.com](mailto:nasaee.dev@gmail.com) or call 📱 0831841131 
 - 🚀  I'm currently working on [Intermedical.Co., Ltd.](https://intermedical.co.th/)
 - 🧠  I'm learning NodeJS , Typscript , NestJS
 
