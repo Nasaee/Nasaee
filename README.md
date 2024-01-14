@@ -5,7 +5,7 @@ A self-taught Web developer
 ---------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My portfolio](http://https://nasaee-portfolio.netlify.app)
+* 🖥️  See my portfolio at [My portfolio](https://nasaee-portfolio.netlify.app/)
 * ✉️  You can contact me at [nasaee.dev@gmail.com](mailto:nasaee.dev@gmail.com)
 * 🚀  I'm currently working on [Intermedical.Co., Ltd.](http://https://intermedical.co.th/)
 * 🧠  I'm learning NodeJS , Express, GraphQL, NestJS
