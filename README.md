@@ -12,7 +12,7 @@
 
 ```javascript
 const skills = {
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [
     React,
     Node,
@@ -20,7 +20,7 @@ const skills = {
     Tailwind,
     Vite,
   ],
-  learning: ['NestJS', 'ExpressJS', 'GraphQL'],
+  learning: ['ExpressJS', 'NestJS', 'GraphQL', 'SQL', 'AWS', 'Docker'],
 };
 ```
 
