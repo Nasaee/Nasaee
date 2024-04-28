@@ -14,15 +14,18 @@ A self-taught Web developer
 
 ```javascript
 const skills = {
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [
     React,
     Node,
+    ExpressJS,
     Redux,
     Tailwind,
     Vite,
+    MongoDB,
+    NextJS
   ],
-  learning: ['ExpressJS', 'NestJS', 'GraphQL', 'SQL', 'AWS', 'Docker'],
+  learning: ['Redis', 'SQL', 'Docker'],
 };
 ```
 
